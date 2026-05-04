@@ -1,0 +1,9 @@
+body {
+  
+    background-image: url("wallpapper3.png");
+  
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center; 
+  height: 100vh;
+}
